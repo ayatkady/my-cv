@@ -12,6 +12,15 @@ I'm a Software Developer with training in **Software Engineering Fundamentals** 
 
 ### Projects
 - **EELU Library Hub:** A web application built to help students access library resources.
+- ### ITI Hub — Team Project
+
+A social networking platform designed for ITI students and graduates to connect, share content, and collaborate.
+
+- **Project type:** Team Project
+- **Live Demo:** [Try ITI Hub](https://iti-hub-taupe.vercel.app)
+- **GitHub Repository:** [View Source Code](https://github.com/Ehabw57/iti-hub)
+
+This project provided an opportunity to collaborate with a development team and contribute to building a web application.
 
 ### Career Objective
 I'm seeking an opportunity to grow as a **Junior Software Developer**, contribute to real-world projects, and continue developing my technical skills.
